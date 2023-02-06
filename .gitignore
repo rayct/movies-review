@@ -1,1 +1,9 @@
+
+### PROJECT FILES ###
 notes.txt
+
+### VSCODE ###
+.vscode/
+
+### ENX Files ###
+.env
