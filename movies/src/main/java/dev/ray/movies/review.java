@@ -22,4 +22,4 @@ public class Review {
         this.created = created;
         this.updated = updated;
     }
-}
+} 
