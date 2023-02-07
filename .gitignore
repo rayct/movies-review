@@ -4,6 +4,7 @@ notes.txt
 
 ### VSCODE ###
 .vscode/
+.DS_Store
 
 ### ENX Files ###
 .env
