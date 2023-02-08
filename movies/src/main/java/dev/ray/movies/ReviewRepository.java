@@ -1,9 +1,9 @@
 package dev.ray.movies;
 
 import org.bson.types.ObjectId;
-import org.springframework.stereotype.Repository;
+// import org.springframework.stereotype.Repository;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
-@Repository
+// @Repository
 public interface ReviewRepository extends MongoRepository<Review, ObjectId> {
 }
